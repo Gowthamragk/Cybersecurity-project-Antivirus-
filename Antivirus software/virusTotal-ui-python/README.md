@@ -1,7 +1,7 @@
 # Antivirus software (Total virus)
 #### Study Python & Cyber Security by implementing Virus Total functions in a tkinter UI!
 
-![Example](resources/Ex.PNG)
+![Tkinter ui](resources/Ex.PNG)
 
 This project includes:
 - REST API's
